@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# SWOPshare
 
 ## Available Scripts
 
@@ -71,3 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Install Tailwind CSS
 [https://tailwindcss.com/docs/guides/create-react-app](https://tailwindcss.com/docs/guides/create-react-app)
+
+## Depandencies
+`npm install @sanity/client @sanity/image-url react-google-login --force react-icons react-loader-spinner react-masonry-css react-router-dom uuid `
